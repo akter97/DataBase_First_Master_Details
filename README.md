@@ -22,3 +22,19 @@ The application is designed to be easy to use and user-friendly. The code is wel
 Overall, Single Page Master Details CRUD in ASP.NET Core MVC is a useful application for developers who want to learn more about ASP.NET Core MVC development and how to implement CRUD operations using a single page interface.
 
 
+Database 
+Table1
+    SaleMaster
+     --SaleId
+     --CustomerName
+     --CreateDate
+     --CustomerDetails
+     --Picture
+     --Gender
+    SaleDetails
+     --SaleDetailId
+     --SaleId In references
+     --ProductName
+     --Quentity
+     --Price
+     
